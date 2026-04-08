@@ -190,4 +190,4 @@ cd "SYS2 Re"
 
 ### 免责声明
 - 本仓库为 **非官方** 项目，与 University of York 及 COM00029I 教学团队无关。
-- 所有课程内容版权归 University of York COM00029I 教学团队所有，仅供 **个人学习和练习** 使用，请遵守学术诚信规定。
+- 所有课程内容版权归 University of York COM00029I 教学团队所有，仅供 **个人** 使用，请遵守学术诚信规定。
